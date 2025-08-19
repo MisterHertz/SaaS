@@ -1,5 +1,6 @@
 SaaS Sales & Profitability Analysis
-🎯 Objectives
+
+## Objectives
 
 Assess regional sales performance trends
 
@@ -9,7 +10,7 @@ Test statistical significance of regional differences
 
 Provide insights to support business decision-making
 
-📊 Methodology
+## Methodology
 
 Data Preparation – Cleaned and grouped sales & profit data
 
@@ -21,7 +22,7 @@ Statistical Test (Kruskal-Wallis) – Compared regions since data was non-normal
 
 Visualization – Built graphs & dashboards using Python and Tableau
 
-🔑 Key Insights
+## Key Insights
 
 Sales volume alone does not guarantee profitability
 
@@ -29,7 +30,7 @@ Significant differences exist in profit-to-sales ratios across AMER, EMEA, and A
 
 Some regions generate higher revenue but lower profit margins due to cost structures
 
-🛠 Tools & Libraries
+## Tools & Libraries
 
 Python: Pandas, NumPy, Matplotlib, Seaborn, SciPy
 
